@@ -1,6 +1,6 @@
 # Face Emotion Recognition with FER Library
 
-## 📖 Overview
+##  Overview
 This project is a Python-based facial emotion recognition tool that uses the **FER** library to analyze facial expressions from images. By leveraging pre-trained models, the tool detects and identifies emotions such as happiness, sadness, anger, and more, providing a confidence score for each prediction. It is ideal for researchers, developers, and enthusiasts interested in emotion analysis and its applications in AI.
 
 ---
